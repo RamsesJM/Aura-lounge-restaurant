@@ -2,6 +2,8 @@
 
 Aura Lounge is a portfolio concept for a contemporary Dominican restaurant and lounge in Santo Domingo. The site pairs Caribbean hospitality and food with an editorial dark-luxury visual direction.
 
+**Live site:** [aura-restaurant-teal.vercel.app](https://aura-restaurant-teal.vercel.app)
+
 ## Project goals
 
 - Build a polished restaurant landing page that feels warm, distinctive, and easy to navigate.
